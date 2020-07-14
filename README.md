@@ -5,8 +5,8 @@
 
 ## Links
 <ul>
-<li>Link of my deployed Web App: http://titanic-streamlit-app.herokuapp.com/</li>
-<li>Link of Kaggle competition: https://www.kaggle.com/c/titanic</li>
+<li>Link of my deployed Web App: https://bit.ly/38SxcCC</li>
+<li>Link of Kaggle competition: https://bit.ly/2Opug7b</li>
 </ul>
 
 ## Variables description
