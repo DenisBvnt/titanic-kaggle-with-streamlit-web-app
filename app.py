@@ -1,9 +1,8 @@
 # IMPORTING LIBS AND MODEL
 import streamlit as st
-import pickle
-import pandas as pd
+import joblib
 
-model = pickle.load(open('titanic_model_svm.sav', 'rb'))
+model = joblib.load('titanic_model_svm.sav')
 
 
 # DATA INPUT
